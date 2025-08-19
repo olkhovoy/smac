@@ -1,0 +1,5 @@
+{
+  "name": "SMAC Experiment Dashboard",
+  "description": "An interactive dashboard presenting the experimental architecture, implementation plan, and success analysis for comparing AMAL and MAPPO algorithms on SMAC scenarios.",
+  "requestFramePermissions": []
+}
